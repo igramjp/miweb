@@ -7,7 +7,7 @@ from urllib.request import urlopen
 parser = argparse.ArgumentParser(
         prog = 'miweb',
         usage = 'python miweb.pyc [OPTION]',
-        description = 'get current promotions of media integration, and output csv.',
+        description = 'get current promotions at media integration, and output csv.',
         epilog = '',
         add_help = True)
  
